@@ -1,8 +1,12 @@
 # Ekylibre
 
-Ekylibre is a simple enterprise management web application for farmers and small enterprises.
+[![Join the chat at https://gitter.im/ionosphere/ekylibre](https://badges.gitter.im/ionosphere/ekylibre.svg)](https://gitter.im/ionosphere/ekylibre?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Ekylibre is an open farm management information system (FMIS) in web mode for farmers and small enterprises.
 Ekylibre is written with Ruby on Rails framework and use PostgreSQL/PostGIS stack.
-More details can be found on the official website http://ekylibre.org.
+More details can be found on the official website http://ekylibre.com.
+
+This fork is an experimental version of Ekylibre to make proof of Concept (POC) with partners.
 
 ## Code status
 
